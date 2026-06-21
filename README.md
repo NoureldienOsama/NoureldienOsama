@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f172a,100:1e293b&height=220&section=header&text=THE%20SOUL%20WITHIN%20THE%20RAIN&fontSize=36&fontColor=93c5fd&animation=twinkling&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:111827,100:1f2937&height=220&section=header&text=SOUL%20REAPER%20PROFILE&fontSize=40&fontColor=ffffff" />
 </p>
-
 <p align="center">
   <i>“In silence, power awakens.”</i>
 </p>
