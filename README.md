@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/1Z8ZpQ7Q9JkAAAAC/bleach-ichigo.gif" width="280"/>
+  <img src="https://media.tenor.com/0G1Z9kQ5r2IAAAAC/rain-overlay.gif" width="320"/>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/1Z8ZpQ7Q9JkAAAAC/bleach-ichigo.gif" width="280" style="position:relative; margin-top:-260px;"/>
 </p>
 
 ---
