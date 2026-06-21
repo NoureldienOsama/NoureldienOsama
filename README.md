@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=180&section=header&text=SOUL%20REAPER%20PROFILE&fontSize=34&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f172a,100:1e293b&height=220&section=header&text=THE%20SOUL%20WITHIN%20THE%20RAIN&fontSize=36&fontColor=93c5fd&animation=twinkling&fontAlignY=40" />
 </p>
 
 <p align="center">
