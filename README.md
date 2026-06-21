@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="320"/>
+  <img src="https://media.tenor.com/1Z8ZpQ7Q9JkAAAAC/bleach-ichigo.gif" width="280"/>
 </p>
 
 ---
@@ -16,8 +16,8 @@
 
 I’m **Noureldien Osama**, a Computer Science & AI developer focused on building systems where **logic meets creativity**.
 
-Inspired by **Bleach’s calm intensity**, I like working in a mindset where everything feels like:
-> quiet focus + controlled chaos + clean execution
+Inspired by the calm intensity of **Bleach**, I work with a mindset of:
+> focus • precision • controlled chaos • clean execution
 
 ---
 
@@ -25,15 +25,15 @@ Inspired by **Bleach’s calm intensity**, I like working in a mindset where eve
 
 - Artificial Intelligence & Machine Learning  
 - Mobile Development using Flutter  
-- Building real-world end-to-end systems  
-- UI/UX design with clean user flow thinking  
-- Turning ideas into deployable products  
+- End-to-end real-world systems  
+- UI/UX design thinking  
+- Turning ideas into production-ready applications  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧬 Core Languages
+### 🧬 Languages
 - Python  
 - Dart  
 
@@ -43,7 +43,7 @@ Inspired by **Bleach’s calm intensity**, I like working in a mindset where eve
 - Scikit-learn  
 - NumPy / Pandas  
 
-### 📱 Mobile & Backend
+### 📱 Mobile / Backend
 - Flutter  
 - Firebase  
 - SQLite  
@@ -57,10 +57,10 @@ Inspired by **Bleach’s calm intensity**, I like working in a mindset where eve
 
 ## 🚀 Projects
 
-- 🌾 **AI Agriculture System** — crop recommendation, disease detection, chatbot assistant  
-- 🧠 **Neural Network from Scratch** — forward & backward propagation implementation  
-- 📱 **Flutter Applications** — UI-focused mobile apps with clean UX  
-- 🧪 **ML Experiments** — clustering, classification, and optimization tasks  
+- 🌾 AI Agriculture System — crop recommendation, disease detection, chatbot  
+- 🧠 Neural Network From Scratch — forward & backward propagation  
+- 📱 Flutter Apps — clean UI/UX mobile applications  
+- 🧪 ML Experiments — clustering, classification, optimization  
 
 ---
 
@@ -79,9 +79,19 @@ Inspired by **Bleach’s calm intensity**, I like working in a mindset where eve
 Mode: Focused
 Environment: Rainy cyberpunk night
 Mindset: Calm execution under pressure
-Goal: Build systems that matter
+Goal: Build useful systems that matter
 ```
-##🌐 Connect
-LinkedIn: www.linkedin.com/in/noureldien-osamaaa
+---
+## 🌐 Connect
 
-<p align="center"> <img src="https://media.giphy.com/media/3o7TKz9bX9x0xZ0xXG/giphy.gif" width="280"/> </p> <p align="center"> <b>“A blade is sharpest when the mind is quiet.”</b> </p> ```
+- 💼 LinkedIn: www.linkedin.com/in/noureldien-osamaaa  
+- 💬 Open to collaboration, ideas, and tech discussions  
+- 🚀 Always building something new  
+
+<p align="center">
+  <img src="https://media.tenor.com/1Z8ZpQ7Q9JkAAAAC/bleach-ichigo.gif" width="280"/>
+</p>
+
+<p align="center">
+  <b>“A blade is sharpest when the mind is quiet.”</b>
+</p>
