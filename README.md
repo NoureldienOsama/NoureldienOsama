@@ -35,10 +35,7 @@
 
 ## ⚙️ TECHNICAL RELEASES
 
-- 🌾 AI Agriculture System (Disease Detection + Recommendations)
-- 🧠 Neural Network From Scratch (Forward + Backprop)
-- 📱 Flutter Applications (Clean UI Systems)
-- 🧪 Machine Learning Experiments
+
 
 ---
 
