@@ -1,45 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:0f172a&height=220&section=header&text=Noureldien%20Osama&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=180&section=header&text=Noureldien%20Osama&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoureldienOsama&style=flat-square&color=0f172a" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoureldienOsama&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <i>“We are all just signals passing through noise.”</i>
+  <i>AI Engineer • Mobile Developer • Builder</i>
 </p>
 
 ---
 
-## 🌧️ About Me
+## 👤 About Me
 
-I’m **Noureldien Osama**, a developer exploring the space between **AI, design, and turning chaos into structured systems**.
+I’m **Noureldien Osama**, a Computer Science & AI graduate focused on building real-world applications using AI and mobile development.
 
-- 🎓 CS / AI background  
-- 🖤 Anime: Bleach (core personality trait)  
-- 🎮 Gaming: Devil May Cry mindset — stylish execution  
-- 🎧 Music: Radiohead (Exit Music = reset state)  
-- 🏋️ Gym: mental reset, not just physical  
-- 🎨 Design: UI/UX + visual thinking  
+I enjoy turning ideas into working systems, especially where **AI meets mobile apps**.
 
 ---
 
-## ⚡ System Status
+## 🧠 Interests
 
-```bash
-$ whoami
-NoureldienOsama
+- Artificial Intelligence & Machine Learning  
+- Mobile App Development (Flutter)  
+- UI/UX Design Thinking  
+- Building practical real-world projects  
+- Learning system design and deployment  
 
-$ status
-Building AI systems + mobile apps + learning daily
+---
 
-$ mood
-Rainy cyberpunk focus mode
+## ⚙️ Tech Stack
 
-$ objective
-Turn ideas into real-world impact
+**Languages**
+- Python
+- Dart
+
+**AI / ML**
+- TensorFlow
+- Keras
+- Scikit-learn
+- NumPy / Pandas
+
+**Mobile**
+- Flutter
+- Firebase
+- SQLite
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Android Studio
+
+---
+
+## 🚀 Projects
+
+- 🌾 AI Agriculture App — crop recommendation, disease detection, chatbot  
+- 🧠 Neural Network from scratch — forward & backward propagation  
+- 📱 Flutter apps — UI-focused mobile applications  
+- 🧪 Machine learning experiments and prototypes  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoureldienOsama&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoureldienOsama&layout=compact&theme=default" height="160"/>
+</p>
+
+---
+
+## 🌱 Current Focus
+
+- Improving AI deployment skills  
+- Connecting ML models to Flutter apps  
+- Building complete end-to-end systems  
+- Writing cleaner, production-ready code  
+
+---
+
+## 🌐 Connect
+
+- LinkedIn: www.linkedin.com/in/noureldien-osamaaa  
+
+---
+
+<p align="center">
+  <b>Building useful things, step by step.</b>
+</p>
