@@ -55,15 +55,6 @@ Inspired by the calm intensity of **Bleach**, I work with a mindset of:
 
 ---
 
-## 🚀 Projects
-
-- 🌾 AI Agriculture System — crop recommendation, disease detection, chatbot  
-- 🧠 Neural Network From Scratch — forward & backward propagation  
-- 📱 Flutter Apps — clean UI/UX mobile applications  
-- 🧪 ML Experiments — clustering, classification, optimization  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
