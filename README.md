@@ -80,18 +80,3 @@ Mode: Focused
 Environment: Rainy cyberpunk night
 Mindset: Calm execution under pressure
 Goal: Build useful systems that matter
-```
----
-## 🌐 Connect
-
-- 💼 LinkedIn: www.linkedin.com/in/noureldien-osamaaa  
-- 💬 Open to collaboration, ideas, and tech discussions  
-- 🚀 Always building something new  
-
-<p align="center">
-  <img src="https://media.tenor.com/1Z8ZpQ7Q9JkAAAAC/bleach-ichigo.gif" width="280"/>
-</p>
-
-<p align="center">
-  <b>“A blade is sharpest when the mind is quiet.”</b>
-</p>
