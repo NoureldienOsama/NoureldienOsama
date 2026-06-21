@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/1Z8ZpQ7Q9JkAAAAC/bleach-old-man-zangetsu-gif-16998228834277563137.gif" width="320"/>
+  <img src="https://media.tenor.com/6hY6Q1pQb6kAAAAC/old-man-zangetsu-bleach.gif" width="320"/>
 </p>
 
 ---
